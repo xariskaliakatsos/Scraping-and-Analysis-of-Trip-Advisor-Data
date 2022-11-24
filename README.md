@@ -22,7 +22,7 @@ The code requires Python and Selenium.
 
 ## 1. About
 
-**Analysis of TripAdvisor Data** is a project that was created as a semester Project in the context of “Web Mining” class. MSc Data and Web Science, School of Informatics, Aristotle University of Thessaloniki.The project team conisted of me, Vasiliki Parousidou, Enangelos Bektis, Georgios Aswestopoulos.
+**Analysis of TripAdvisor Data** is a project that was created as a semester Project in the context of “Web Mining” class. MSc Data and Web Science, School of Informatics, Aristotle University of Thessaloniki. The project team conisted of me, Vasiliki Parousidou, Enangelos Bektis, Georgios Aswestopoulos.
 
 ## 2. Web Scraping Process
 
